@@ -13,6 +13,7 @@
 		BB7F9D9228441F9900500A14 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB7F9D9028441F9900500A14 /* Main.storyboard */; };
 		BB7F9D9428441F9B00500A14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB7F9D9328441F9B00500A14 /* Assets.xcassets */; };
 		BB7F9D9728441F9B00500A14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB7F9D9528441F9B00500A14 /* LaunchScreen.storyboard */; };
+		BBFBD3F3284799F300C8BF31 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBFBD3F2284799F300C8BF31 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB7F9D9328441F9B00500A14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB7F9D9628441F9B00500A14 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB7F9D9828441F9B00500A14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBFBD3F2284799F300C8BF31 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				BB7F9D8A28441F9800500A14 /* AppDelegate.swift */,
 				BB7F9D8C28441F9800500A14 /* SceneDelegate.swift */,
+				BBFBD3F2284799F300C8BF31 /* SecondViewController.swift */,
 				BB7F9D8E28441F9900500A14 /* ViewController.swift */,
 				BB7F9D9028441F9900500A14 /* Main.storyboard */,
 				BB7F9D9328441F9B00500A14 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBFBD3F3284799F300C8BF31 /* SecondViewController.swift in Sources */,
 				BB7F9D8F28441F9900500A14 /* ViewController.swift in Sources */,
 				BB7F9D8B28441F9800500A14 /* AppDelegate.swift in Sources */,
 				BB7F9D8D28441F9900500A14 /* SceneDelegate.swift in Sources */,
